@@ -28,7 +28,7 @@ This contributor agreement documents the rights granted by contributors to Us an
 Our CLA is indeed copy-pasted from it.
 
 In order to accept you contribution, you'll have confirm it via our automated CLA pull request verification.  
-Alternatively you can [download](CONTRIBUTION-LICENSE-AGREEMENT.pdf), sign and send it to [cla@ntur-lab.com](mailto::cla@ntur-lab.com).
+Alternatively you can [download](CONTRIBUTION-LICENSE-AGREEMENT.pdf), sign and send it to [cla@ntur-lab.com](mailto:cla@ntur-lab.com).
 
 > This is a legally binding document, so *please read it carefully before agreeing to it*.
 
@@ -42,7 +42,7 @@ We are committed to making participation in this project a harassment-free exper
 
 In that very sense, we adhere to the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct. By participating, you are expected to uphold this code.
 
-> Please report unacceptable behavior to [code-of-conduct@ntur-lab.com](mailto::code-of-conduct@ntur-lab.com)
+> Please report unacceptable behavior to [code-of-conduct@ntur-lab.com](mailto:code-of-conduct@ntur-lab.com)
 
 > If you want to contribute, please read carefully our contribution terms at [CONTRIBUTING.md](CONTRIBUTING.md)
 
