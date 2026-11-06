@@ -1,5 +1,5 @@
 
-# Contributor Code of Conduct
+# NTUR LAB Contributor Code of Conduct
 
 ## Our Pledge
 

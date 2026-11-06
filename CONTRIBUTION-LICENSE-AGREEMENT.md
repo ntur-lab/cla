@@ -1,4 +1,4 @@
-# Contributor License Agreement (CLA)
+# NTUR LAB Contributor License Agreement (CLA)
 
 Thank you for your interest in contributing to [Ntur Lab](https://ntur-lab.com) ("We" or "Us") projects.
 

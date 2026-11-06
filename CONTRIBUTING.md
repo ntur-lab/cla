@@ -1,4 +1,4 @@
-# Ntur-Lab Contribution Guideline
+# NTUR LAB Contribution Guideline
 
 First off, thank you for the time you'll eventually take to contribute! 🧡
 
