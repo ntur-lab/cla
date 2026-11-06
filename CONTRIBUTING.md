@@ -5,7 +5,7 @@ First off, thank you for the time you'll eventually take to contribute! 🧡
 <a id="code-of-conduct"></a>
 ## Code of Conduct
 
-This project adheres to the Contributor Covenant [code of conduct](https://github.com/ntur-lab/cla/CODE-OF-CONDUCT.md).
+This project adheres to the Contributor Covenant [code of conduct](CODE-OF-CONDUCT.md).
 By participating, you are expected to uphold this code.
 Please report unacceptable behavior to [code-of-conduct@ntur-lab.com](mailto:code-of-conduct@ntur-lab.com])
 

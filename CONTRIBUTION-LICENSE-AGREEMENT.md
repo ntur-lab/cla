@@ -3,7 +3,7 @@
 Thank you for your interest in contributing to [Ntur Lab](https://ntur-lab.com) ("We" or "Us") projects.
 
 This contributor agreement ("Agreement") documents the rights granted by contributors to Us. To make this document effective, please confirm it via our automated CLA pull request verification.  
-Alternatively you can [download](https://github.com/ntur-lab/cla/CONTRIBUTION-LICENSE-AGREEMENT.pdf), sign and send it to [cla@ntur-lab.com](mailto:cla@ntur-lab.com).
+Alternatively you can [download](CONTRIBUTION-LICENSE-AGREEMENT.pdf), sign and send it to [cla@ntur-lab.com](mailto:cla@ntur-lab.com).
 
 This is a legally binding document, so please read it carefully before agreeing to it. The Agreement may cover one or more software projects managed by Us.
 
@@ -13,7 +13,7 @@ This is a legally binding document, so please read it carefully before agreeing 
 
 * **"You" (Individual)** means the individual who Submits a Contribution to Us.
 * **"You" (Entity)** means any Legal Entity on behalf of whom a Contribution has been received by Us. "Legal Entity" means an entity which is not a natural person. "Affiliates" means other Legal Entities that control, are controlled by, or under common control with that Legal Entity.
-* **"Contribution"** means any work of authorship that is Submitted by You to Us in which You own or assert ownership of the Copyright. If You do not own the Copyright in the entire work of authorship, please follow the instructions at [CONTRIBUTING.md](https://github.com/ntur-lab/cla/CONTRIBUTING.md).
+* **"Contribution"** means any work of authorship that is Submitted by You to Us in which You own or assert ownership of the Copyright. If You do not own the Copyright in the entire work of authorship, please follow the instructions at [CONTRIBUTING.md](CONTRIBUTING.md).
 * **"Copyright"** means all rights protecting works of authorship owned or controlled by You or Your Affiliates, including copyright, moral, and neighboring rights, as appropriate, for the full term of their existence including any extensions.
 * **"Material"** means the work of authorship which is made available by Us to third parties. When this Agreement covers more than one software project, the Material means the work of authorship to which the Contribution was Submitted. After You Submit the Contribution, it may be included in the Material.
 * **"Submit"** means any form of electronic, verbal, or written communication sent to Us or our representatives, including but not limited to electronic mailing lists, source code control systems, and issue tracking systems managed by or on behalf of Us for the purpose of discussing and improving the Material, but excluding communication conspicuously marked or designated in writing by You as "Not a Contribution."
@@ -58,7 +58,7 @@ You confirm and represent that:
 2. You (or Your Affiliates, where applicable) own or hold the necessary rights in the Copyright and patent claims required to grant the licenses under Section 2.
 3. **If You are an Individual:** The grant of rights does not violate any obligation owed to third parties, including Your employer. If Your employer has rights to intellectual property created by You, You represent that Your employer has authorized You to submit the Contribution, or that Your employer has executed an Entity CLA.
 4. **If You are an Entity:** The individual signing or confirming this Agreement is formally authorized to execute it on behalf of the Legal Entity, and the grant of rights binds the Legal Entity and its designated contributing personnel.
-5. You have complied with the instructions at [CONTRIBUTING](https://github.com/ntur-lab/cla/CONTRIBUTING.md) if any third-party code or dependencies are included in the Contribution.
+5. You have complied with the instructions at [CONTRIBUTING](CONTRIBUTING.md) if any third-party code or dependencies are included in the Contribution.
 
 ---
 
